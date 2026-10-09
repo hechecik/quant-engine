@@ -1,0 +1,461 @@
+{
+  "kaynak": "kripto",
+  "sembol": "BTCUSDT",
+  "periyot": "1d",
+  "bar_sayisi": 1000,
+  "ilk_bar": "2024-01-14 00:00:00",
+  "son_bar": "2026-10-09 00:00:00",
+  "baslangic_bakiye": 100000.0,
+  "son_bakiye": 69429.46,
+  "getiri_yuzde": -30.57,
+  "dolum_sayisi": 78,
+  "islem_sayisi": 39,
+  "kazanan": 15,
+  "isabet_orani": 38.5,
+  "realize_pnl": -30570.54,
+  "sinyal_sayisi": 41,
+  "sinyaller": [
+    {
+      "ts": 1710288000000000000,
+      "yon": "BUY",
+      "fiyat": 73072.41,
+      "skor": 3,
+      "atr": 3074.7066,
+      "neden": [
+        "MSS↑ 5 bar önce kapanış (68124.19) son swing yükseğini (64000.00) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 61951.83) → kabul/güç"
+      ]
+    },
+    {
+      "ts": 1710460800000000000,
+      "yon": "BUY",
+      "fiyat": 69499.85,
+      "skor": 3,
+      "atr": 3484.6294,
+      "neden": [
+        "MSS↑ 5 bar önce kapanış (68955.88) son swing yükseğini (64000.00) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 63210.4) → kabul/güç"
+      ]
+    },
+    {
+      "ts": 1715731200000000000,
+      "yon": "BUY",
+      "fiyat": 66206.5,
+      "skor": 3,
+      "atr": 2825.8383,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (66206.50) son swing yükseğini (65500.00) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Displacement↑ alıcı displacement mumu — gövde 4629.01 > ATR×1.2 (3391.01)"
+      ]
+    },
+    {
+      "ts": 1721001600000000000,
+      "yon": "BUY",
+      "fiyat": 64724.14,
+      "skor": 3,
+      "atr": 2467.4303,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (64724.14) son swing yükseğini (63861.76) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Displacement↑ alıcı displacement mumu — gövde 3926.23 > ATR×1.2 (2960.92)"
+      ]
+    },
+    {
+      "ts": 1722556800000000000,
+      "yon": "KAPAT",
+      "neden": "ters sinyal (skor≤-3)"
+    },
+    {
+      "ts": 1724371200000000000,
+      "yon": "BUY",
+      "fiyat": 64037.24,
+      "skor": 3,
+      "atr": 2962.3728,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (64037.24) son swing yükseğini (62745.14) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Displacement↑ alıcı displacement mumu — gövde 3661.41 > ATR×1.2 (3554.85)"
+      ]
+    },
+    {
+      "ts": 1724716800000000000,
+      "yon": "BUY",
+      "fiyat": 59415.0,
+      "skor": 0,
+      "atr": 2814.4309,
+      "neden": [
+        "MSS↑ 4 bar önce kapanış (64037.24) son swing yükseğini (62745.14) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Displacement↓ satıcı displacement mumu — gövde 3419.00 > ATR×1.2 (3377.32)",
+        "Likidite süpürmesi↓ 2 bar önce direnç 64955.00 süpürüldü, kapanış altına döndü (64220.00) → yukarı tuzak"
+      ]
+    },
+    {
+      "ts": 1727308800000000000,
+      "yon": "BUY",
+      "fiyat": 65173.99,
+      "skor": 2,
+      "atr": 2229.9637,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (65173.99) son swing yükseğini (65000.00) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Likidite süpürmesi↓ 3 bar önce direnç 64133.32 süpürüldü, kapanış altına döndü (63339.99) → yukarı tuzak",
+        "Fiyat değer alanı üstünde (VAH 63755.99) → kabul/güç"
+      ]
+    },
+    {
+      "ts": 1727740800000000000,
+      "yon": "BUY",
+      "fiyat": 60805.78,
+      "skor": 3,
+      "atr": 2182.7365,
+      "neden": [
+        "MSS↑ 5 bar önce kapanış (65173.99) son swing yükseğini (65000.00) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat bullish Order Block içinde (59724.87–61156.03) → talep bölgesi"
+      ]
+    },
+    {
+      "ts": 1728950400000000000,
+      "yon": "BUY",
+      "fiyat": 67074.14,
+      "skor": 3,
+      "atr": 2189.7119,
+      "neden": [
+        "MSS↑ 1 bar önce kapanış (66083.99) son swing yükseğini (64478.19) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 64356.67) → kabul/güç",
+        "eşit düşükler ≈ 59387.05 (fiyata %11.46) → altta likidite havuzu, süpürme hedefi"
+      ]
+    },
+    {
+      "ts": 1730851200000000000,
+      "yon": "BUY",
+      "fiyat": 75571.99,
+      "skor": 4,
+      "atr": 2553.2784,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (75571.99) son swing yükseğini (73620.12) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Displacement↑ alıcı displacement mumu — gövde 6199.98 > ATR×1.2 (3063.93)",
+        "Fiyat değer alanı üstünde (VAH 70327.74) → kabul/güç"
+      ]
+    },
+    {
+      "ts": 1731283200000000000,
+      "yon": "BUY",
+      "fiyat": 88647.99,
+      "skor": 4,
+      "atr": 3056.5087,
+      "neden": [
+        "MSS↑ 5 bar önce kapanış (75571.99) son swing yükseğini (73620.12) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Displacement↑ alıcı displacement mumu — gövde 8277.98 > ATR×1.2 (3667.81)",
+        "Fiyat değer alanı üstünde (VAH 70308.2) → kabul/güç"
+      ]
+    },
+    {
+      "ts": 1732147200000000000,
+      "yon": "BUY",
+      "fiyat": 98317.12,
+      "skor": 3,
+      "atr": 3560.3099,
+      "neden": [
+        "MSS↑ 1 bar önce kapanış (94286.56) son swing yükseğini (93265.64) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 84305.93) → kabul/güç",
+        "eşit düşükler ≈ 66047.5 (fiyata %32.82) → altta likidite havuzu, süpürme hedefi"
+      ]
+    },
+    {
+      "ts": 1732579200000000000,
+      "yon": "BUY",
+      "fiyat": 91965.16,
+      "skor": 3,
+      "atr": 3579.1977,
+      "neden": [
+        "MSS↑ 5 bar önce kapanış (98317.12) son swing yükseğini (73620.12) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 88750.14) → kabul/güç",
+        "eşit düşükler ≈ 66047.5 (fiyata %28.18) → altta likidite havuzu, süpürme hedefi"
+      ]
+    },
+    {
+      "ts": 1733443200000000000,
+      "yon": "BUY",
+      "fiyat": 99740.84,
+      "skor": 2,
+      "atr": 4237.1857,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (99740.84) son swing yükseğini (99588.01) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Likidite süpürmesi↓ 1 bar önce direnç 99588.01 süpürüldü, kapanış altına döndü (96945.63) → yukarı tuzak",
+        "Fiyat değer alanı üstünde (VAH 93554.87) → kabul/güç"
+      ]
+    },
+    {
+      "ts": 1736380800000000000,
+      "yon": "BUY",
+      "fiyat": 92552.49,
+      "skor": 2,
+      "atr": 3799.8255,
+      "neden": [
+        "MSS↑ 3 bar önce kapanış (102235.60) son swing yükseğini (99963.70) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "eşit düşükler ≈ 91881.5 (fiyata %0.72) → altta likidite havuzu, süpürme hedefi"
+      ]
+    },
+    {
+      "ts": 1737072000000000000,
+      "yon": "BUY",
+      "fiyat": 104077.48,
+      "skor": 3,
+      "atr": 3838.398,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (104077.48) son swing yükseğini (102724.38) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 100077.93) → kabul/güç",
+        "eşit düşükler ≈ 90393.57 (fiyata %13.15) → altta likidite havuzu, süpürme hedefi"
+      ]
+    },
+    {
+      "ts": 1742342400000000000,
+      "yon": "BUY",
+      "fiyat": 86845.94,
+      "skor": 1,
+      "atr": 4318.4272,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (86845.94) son swing yükseğini (85309.71) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat bearish Order Block içinde (86064.54–95000.0) → arz bölgesi",
+        "eşit düşükler ≈ 77432.26 (fiyata %10.84) → altta likidite havuzu, süpürme hedefi"
+      ]
+    },
+    {
+      "ts": 1745193600000000000,
+      "yon": "BUY",
+      "fiyat": 87516.23,
+      "skor": 2,
+      "atr": 3161.9932,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (87516.23) son swing yükseğini (86496.42) kırdı → yapı yukarı döndü (MSS/BOS)"
+      ]
+    },
+    {
+      "ts": 1746057600000000000,
+      "yon": "BUY",
+      "fiyat": 96489.91,
+      "skor": 3,
+      "atr": 2914.3785,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (96489.91) son swing yükseğini (95758.04) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 89021.48) → kabul/güç"
+      ]
+    },
+    {
+      "ts": 1747008000000000000,
+      "yon": "BUY",
+      "fiyat": 102791.32,
+      "skor": 2,
+      "atr": 2909.4158,
+      "neden": [
+        "MSS↑ 4 bar önce kapanış (103261.60) son swing yükseğini (97895.68) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Likidite süpürmesi↓ 3 bar önce direnç 104145.76 süpürüldü, kapanış altına döndü (102971.99) → yukarı tuzak",
+        "Fiyat değer alanı üstünde (VAH 91207.44) → kabul/güç"
+      ]
+    },
+    {
+      "ts": 1747872000000000000,
+      "yon": "BUY",
+      "fiyat": 111696.21,
+      "skor": 3,
+      "atr": 3011.6836,
+      "neden": [
+        "MSS↑ 4 bar önce kapanış (106454.26) son swing yükseğini (105819.45) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 96991.2) → kabul/güç"
+      ]
+    },
+    {
+      "ts": 1749600000000000000,
+      "yon": "BUY",
+      "fiyat": 108645.12,
+      "skor": 2,
+      "atr": 2877.6151,
+      "neden": [
+        "MSS↑ 2 bar önce kapanış (110263.02) son swing yükseğini (106794.67) kırdı → yapı yukarı döndü (MSS/BOS)"
+      ]
+    },
+    {
+      "ts": 1749772800000000000,
+      "yon": "BUY",
+      "fiyat": 106066.59,
+      "skor": 2,
+      "atr": 2940.6828,
+      "neden": [
+        "MSS↑ 4 bar önce kapanış (110263.02) son swing yükseğini (106794.67) kırdı → yapı yukarı döndü (MSS/BOS)"
+      ]
+    },
+    {
+      "ts": 1751500800000000000,
+      "yon": "BUY",
+      "fiyat": 109584.78,
+      "skor": 3,
+      "atr": 2688.0045,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (109584.78) son swing yükseğini (108952.38) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 109499.6) → kabul/güç",
+        "eşit yüksekler ≈ 109741.27 (fiyata %0.14) → üstte likidite havuzu, süpürme hedefi"
+      ]
+    },
+    {
+      "ts": 1752192000000000000,
+      "yon": "BUY",
+      "fiyat": 117527.66,
+      "skor": 3,
+      "atr": 2844.7411,
+      "neden": [
+        "MSS↑ 2 bar önce kapanış (111233.99) son swing yükseğini (110529.18) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 109912.99) → kabul/güç",
+        "eşit yüksekler ≈ 109740.78 (fiyata %-6.63) → üstte likidite havuzu, süpürme hedefi"
+      ]
+    },
+    {
+      "ts": 1757462400000000000,
+      "yon": "BUY",
+      "fiyat": 113960.0,
+      "skor": 2,
+      "atr": 2765.959,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (113960.00) son swing yükseğini (113384.62) kırdı → yapı yukarı döndü (MSS/BOS)"
+      ]
+    },
+    {
+      "ts": 1759449600000000000,
+      "yon": "BUY",
+      "fiyat": 122232.0,
+      "skor": 3,
+      "atr": 2691.6466,
+      "neden": [
+        "MSS↑ 2 bar önce kapanış (118594.99) son swing yükseğini (117900.00) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 118160.37) → kabul/güç",
+        "eşit düşükler ≈ 107937.54 (fiyata %11.69) → altta likidite havuzu, süpürme hedefi"
+      ]
+    },
+    {
+      "ts": 1760054400000000000,
+      "yon": "BUY",
+      "fiyat": 112774.5,
+      "skor": 4,
+      "atr": 4196.588,
+      "neden": [
+        "MSS↑ 5 bar önce kapanış (123482.31) son swing yükseğini (117900.00) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat bullish Order Block içinde (112656.27–114311.97) → talep bölgesi",
+        "Likidite süpürmesi↑ 0 bar önce destek 108620.07 süpürüldü, kapanış üstüne döndü (112774.50) → aşağı tuzak"
+      ]
+    },
+    {
+      "ts": 1761436800000000000,
+      "yon": "BUY",
+      "fiyat": 114559.4,
+      "skor": 2,
+      "atr": 3817.8005,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (114559.40) son swing yükseğini (114000.00) kırdı → yapı yukarı döndü (MSS/BOS)"
+      ]
+    },
+    {
+      "ts": 1761782400000000000,
+      "yon": "BUY",
+      "fiyat": 108322.88,
+      "skor": 2,
+      "atr": 3896.4671,
+      "neden": [
+        "MSS↑ 4 bar önce kapanış (114559.40) son swing yükseğini (114000.00) kırdı → yapı yukarı döndü (MSS/BOS)"
+      ]
+    },
+    {
+      "ts": 1764720000000000000,
+      "yon": "BUY",
+      "fiyat": 93429.95,
+      "skor": 2,
+      "atr": 3903.9535,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (93429.95) son swing yükseğini (93092.00) kırdı → yapı yukarı döndü (MSS/BOS)"
+      ]
+    },
+    {
+      "ts": 1767398400000000000,
+      "yon": "BUY",
+      "fiyat": 90628.01,
+      "skor": 2,
+      "atr": 2529.47,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (90628.01) son swing yükseğini (90588.23) kırdı → yapı yukarı döndü (MSS/BOS)"
+      ]
+    },
+    {
+      "ts": 1768867200000000000,
+      "yon": "KAPAT",
+      "neden": "ters sinyal (skor≤-3)"
+    },
+    {
+      "ts": 1772582400000000000,
+      "yon": "BUY",
+      "fiyat": 72666.77,
+      "skor": 3,
+      "atr": 3659.1119,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (72666.77) son swing yükseğini (69988.83) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat bullish Order Block içinde (62345.0–73165.84) → talep bölgesi",
+        "eşit yüksekler ≈ 70485.92 (fiyata %-3.0) → üstte likidite havuzu, süpürme hedefi"
+      ]
+    },
+    {
+      "ts": 1775520000000000000,
+      "yon": "BUY",
+      "fiyat": 71924.22,
+      "skor": 3,
+      "atr": 2607.7622,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (71924.22) son swing yükseğini (69310.00) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 71053.77) → kabul/güç"
+      ]
+    },
+    {
+      "ts": 1777852800000000000,
+      "yon": "BUY",
+      "fiyat": 79861.01,
+      "skor": 3,
+      "atr": 2179.0738,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (79861.01) son swing yükseğini (79485.66) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Fiyat değer alanı üstünde (VAH 74992.09) → kabul/güç"
+      ]
+    },
+    {
+      "ts": 1783987200000000000,
+      "yon": "BUY",
+      "fiyat": 65043.98,
+      "skor": 3,
+      "atr": 2047.6167,
+      "neden": [
+        "MSS↑ 0 bar önce kapanış (65043.98) son swing yükseğini (64700.00) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Displacement↑ alıcı displacement mumu — gövde 2709.46 > ATR×1.2 (2457.14)",
+        "eşit yüksekler ≈ 65161.42 (fiyata %0.18) → üstte likidite havuzu, süpürme hedefi"
+      ]
+    },
+    {
+      "ts": 1787184000000000000,
+      "yon": "BUY",
+      "fiyat": 73025.15,
+      "skor": 4,
+      "atr": 1789.6124,
+      "neden": [
+        "MSS↑ 1 bar önce kapanış (69334.79) son swing yükseğini (65474.46) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Displacement↑ alıcı displacement mumu — gövde 3690.37 > ATR×1.2 (2147.53)",
+        "Fiyat değer alanı üstünde (VAH 65600.1) → kabul/güç"
+      ]
+    },
+    {
+      "ts": 1787270400000000000,
+      "yon": "BUY",
+      "fiyat": 78338.03,
+      "skor": 4,
+      "atr": 2124.2723,
+      "neden": [
+        "MSS↑ 2 bar önce kapanış (69334.79) son swing yükseğini (65474.46) kırdı → yapı yukarı döndü (MSS/BOS)",
+        "Displacement↑ alıcı displacement mumu — gövde 5311.01 > ATR×1.2 (2549.13)",
+        "Fiyat değer alanı üstünde (VAH 65756.79) → kabul/güç"
+      ]
+    }
+  ],
+  "motor": "nautilus_trader",
+  "strateji": "ICT (PineScript mantığı → Python)",
+  "olusturma": "2026-10-09T22:08:51+00:00"
+}

@@ -1,0 +1,21 @@
+# ICT stratejisi ayar örneği (run_backtest.py parametreleriyle eşleşir)
+#
+# Backtest:
+#   .venv/bin/python run_backtest.py --kaynak bist --sembol THYAO --esik 3
+
+strateji: ict
+giris_esigi: 3          # |skor| >= esik  →  AL/SAT  (panel tarayıcısıyla aynı)
+izin_short: false       # true → skor <= -esik'te de short açılır
+tahsis: 0.95            # serbest bakiyenin %95'i kadar pozisyon
+
+# Risk (ATR tabanlı)
+atr_stop: 2.0           # stop mesafesi = 2 x ATR
+atr_hedef: 3.0          # hedef mesafe = 3 x ATR  (R:R = 1.5)
+atr_periyot: 14
+
+# Veri
+periyot: 1d             # 1d | 4h | 1h
+min_pencere: 60         # ilk N barda sinyal üretilmez (indikatör ısınması)
+
+# Tetikleyici
+mss_girisi: true        # girişte taze MSS (yapı kırılımı) şartı ara

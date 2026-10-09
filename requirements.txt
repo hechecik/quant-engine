@@ -1,0 +1,6 @@
+# quant-engine — bağımlılıklar
+# NautilusTrader Rust çekirdeği içerir (tekerlek olarak gelir, derleme gerekmez).
+# Hedef Python: 3.13–3.14 (bu depo 3.12 ile de doğrulanmıştır).
+nautilus_trader>=1.220.0
+pandas>=2.0
+yfinance>=0.2.40
